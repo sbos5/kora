@@ -1,0 +1,7 @@
+clas auto
+{
+strimg marka;
+string model;
+int rokprod;
+string kolor;
+}
