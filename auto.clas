@@ -4,5 +4,4 @@ strimg marka;
 string model;
 int rokprod;
 string kolor;
-string bez/diesel
 }
